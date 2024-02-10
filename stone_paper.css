@@ -1,0 +1,85 @@
+h1{
+    text-align: center;
+    font-style: italic;
+}
+.head{
+    background-color: skyblue;
+    height: 80px;
+}
+.d1{
+    height: 110px;
+    width: 110px;
+    border-radius: 50%;
+    background-color: blue;
+    margin-left: 410px;
+    display: inline-block;
+    margin-top: 20px;
+}
+button{
+    height: 110px;
+    width: 110px;
+    border-radius: 50%;
+    background-color: blue;
+}
+.i5{
+    height: 70px;
+    width: 70px;
+    border-radius: 20%;
+}
+.d2{
+    height: 110px;
+    width: 110px;
+    border-radius: 50%;
+    background-color: blue;
+    margin-left: 15px;
+    display: inline-block;
+}
+.d3{
+    height: 110px;
+    width: 110px;
+    border-radius: 50%;
+    background-color: blue;
+    margin-left: 15px;
+    display: inline-block;
+}
+
+.container{
+    height: 200px;
+    background-color: palevioletred;
+}
+.container .d4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    padding-left: 400px;
+    display: inline-block;
+}
+.container .d5{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+   padding-left: 190px;
+    display: inline-block;
+}
+.container .d6{
+    margin-left: 420px;
+    height: 35px;
+    width: 400px;
+    font-size: large;
+    background-color: green;
+    border: 1px solid black;
+    color: wheat;
+}
+.color{
+    background-color: palevioletred;
+}
+.color1{
+    background-color: palevioletred;
+    height: 126px;
+}
+
+
+
+
+
+
+
+
